@@ -1,0 +1,26 @@
+1. O(n)
+2. O(n)
+3. O(1)
+4. O(n^3)
+5. O(n)
+6. O(n)
+7. O(n * log(n))
+8. O(2^n)
+9. O(1)
+10. O(n^2)
+
+functions: upto: O(n),atleast: O(n),atmost: O(1),even: O(n),sub: O(n),vowel: O(n),
+
+1. t
+2. t
+3. f
+4. n
+5. n
+6. n
+7. n log n
+8. n 
+9. constant
+10. n
+11. constant
+12. n
+13. n
